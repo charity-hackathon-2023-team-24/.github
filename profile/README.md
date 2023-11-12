@@ -27,7 +27,8 @@
 
 ## Installing locally
 
-See project repos for details.
+- Front-end: clone [the repo](https://github.com/charity-hackathon-2023-team-24/frontend), then run `npm install` and `npm start`
+- Back-end: see the details [here](https://github.com/charity-hackathon-2023-team-24/backend).
 
 > [!NOTE]
 > In our MVP, no backend is used (it was planned for extra features like a leaderboard), so there's no need to install it locally either.
