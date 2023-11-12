@@ -17,7 +17,7 @@
 
 ## Description
 
-- A basic version of the "Shoot children's scares" game.
+- A basic version of the "[Shoot children's scares](https://github.com/nat-davydova/charity-hackaton-cases#shoot-children-scares-table-of-contents)" game.
 - Fears appear above a child's head, click on them to make them disappear and get 25 points.
 - The game stops when all fears were clicked or if it takes you more than 1 minute to kill all the fears.
 
